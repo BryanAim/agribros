@@ -90,7 +90,7 @@ if($category == 1)
 
             Please click this link to activate your account:
 
-            http://localhost/AgroCulture/Login/verify.php?email=".$email."&hash=".$hash;
+            http://localhost/AgriBros/Login/verify.php?email=".$email."&hash=".$hash;
 
             //$check = mail( $to, $subject, $message_body );
 
@@ -146,7 +146,7 @@ else
 
             Please click this link to activate your account:
 
-            http://localhost/AgroCulture/Login/verify.php?email=".$email."&hash=".$hash;
+            http://localhost/AgriBros/Login/verify.php?email=".$email."&hash=".$hash;
 
             //$check = mail( $to, $subject, $message_body );
 

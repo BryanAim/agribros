@@ -4,7 +4,7 @@
 <html lang="en">
 	<head>
 		<meta charset="UTF-8">
-		<title>AgroCulture</title>
+		<title>AgriBros</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
@@ -33,7 +33,7 @@
 		<!-- Banner -->
 			<section id="banner" class="wrapper">
 				<div class="container">
-				<h2>AgroCulture</h2>
+				<h2>AgriBros</h2>
 				<p>Your Product Our Market</p>
 				<br><br>
 				<center>
@@ -55,7 +55,7 @@
 			<section id="one" class="wrapper style1 align-center">
 				<div class="container">
 					<header>
-						<h2>AgroCulture</h2>
+						<h2>AgriBros</h2>
 						<p>Explore the new way of trading...</p>
 					</header>
 					<div class="row 200%">
@@ -82,7 +82,7 @@
 			<h1 style="font: 35px calibri;">About Us</h1>
 		</center>
 		<div class="footer-left">
-			<h3 style="font-family: 'Times New Roman', cursive;">AgroCulture &copy; </h3>
+			<h3 style="font-family: 'Times New Roman', cursive;">AgriBros &copy; </h3>
 		<!--	<div class="logo">
 				<a href="index.php"><img src="images/logo.png" width="200px"></a>
 			</div>-->
@@ -108,8 +108,8 @@
 
 		<div class="footer-right">
 			<p class="footer-company-about" style="color:white">
-				<span style="font-size:20px"><b>About AgroCulture</b></span>
-				AgroCulture is e-commerce trading platform for grains & grocerries...
+				<span style="font-size:20px"><b>About AgriBros</b></span>
+				AgriBros is e-commerce trading platform for grains & grocerries...
 			</p>
 			<div class="footer-icons">
 				<a  href="#"><i style="margin-left: 0;margin-top:5px;"class="fa fa-facebook"></i></a>
