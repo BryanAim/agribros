@@ -1,5 +1,5 @@
-# AgriBros
-- AgriBros is new way of trading Agricultural products .
+# AgroCulture
+- AgroCulture is new way of trading Agricultural products .
 - It will help farmers to commertialize their product on a online digital platform to increase the radius of their market .
 - The main motto is to cut loose all the commission consumed by the third party people involved in journey of the product to the consumer.
 
@@ -14,9 +14,9 @@
 * Wholesaler --> Retailer ( Securing his share roughly 10% )   
 * Retailer   --> Consumer ( Securing his share roughly 10% )
 
-## AgriBros Way
-* AgriBros intends to establish a direct connection between Famer and the Consumer eliminating all the third party actors from the scene.
-* Farmer --> AgriBros --> Customer
+## AgroCulture Way
+* AgroCulture intends to establish a direct connection between Famer and the Consumer eliminating all the third party actors from the scene.
+* Farmer --> AgroCulture --> Customer
 
 
 
