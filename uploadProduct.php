@@ -132,6 +132,8 @@
 								  <option value="Fruit" style="color: black;">Fruit</option>
 								  <option value="Vegetable" style="color: black;">Vegetable</option>
 								  <option value="Grains" style="color: black;">Grains</option>
+								  <option value="Aqua Product" style="color: black;">Aqua Product</option>
+								  <option value="Machinery" style="color: black;">Machinery</option>
 							  </select>
 						</div>
 					  </div>
