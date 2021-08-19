@@ -93,6 +93,14 @@
 					{
 						$sql = "SELECT * FROM fproduct WHERE pcat = 'Grains'";
 					}
+					if(isset($_GET['type']) AND $_GET['type'] == "machinery")
+					{
+						$sql = "SELECT * FROM fproduct WHERE pcat = 'Machinery'";
+					}
+					if(isset($_GET['type']) AND $_GET['type'] == "aqua product")
+					{
+						$sql = "SELECT * FROM fproduct WHERE pcat = 'Aqua Product'";
+					}
 					$result = mysqli_query($conn, $sql);
 
 					?>
