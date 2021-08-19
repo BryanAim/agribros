@@ -94,22 +94,22 @@
 		<div class="footer-center">
 			<div>
 				<i class="fa fa-map-marker"></i>
-				<p style="font-size:20px">Walchand College Of Engineering<span>Sangli 416 415</span></p>
+				<p style="font-size:20px">Uchumi Business Centre<span>Nakuru CBD</span></p>
 			</div>
 			<div>
 				<i class="fa fa-phone"></i>
-				<p style="font-size:20px">8600611198</p>
+				<p style="font-size:20px">070611198</p>
 			</div>
 			<div>
 				<i class="fa fa-envelope"></i>
-				<p style="font-size:20px"><a href="mailto:agroculture@gmail.com" style="color:white">agroculture@gmail.com</a></p>
+				<p style="font-size:20px"><a href="mailto:agribrose@gmail.com" style="color:white">agribros@gmail.com</a></p>
 			</div>
 		</div>
 
 		<div class="footer-right">
 			<p class="footer-company-about" style="color:white">
 				<span style="font-size:20px"><b>About AgriBros</b></span>
-				AgriBros is e-commerce trading platform for grains & grocerries...
+				AgriBros is e-commerce trading platform for agri-products, aqua-products & machinery.
 			</p>
 			<div class="footer-icons">
 				<a  href="#"><i style="margin-left: 0;margin-top:5px;"class="fa fa-facebook"></i></a>
