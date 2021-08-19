@@ -290,8 +290,8 @@ ALTER TABLE `transaction`
 --
 -- Constraints for table `buyer`
 --
-ALTER TABLE `buyer`
-  ADD CONSTRAINT `buyer_ibfk_1` FOREIGN KEY (`bid`) REFERENCES `farmer` (`fid`);
+-- ALTER TABLE `buyer`
+--   ADD CONSTRAINT `buyer_ibfk_1` FOREIGN KEY (`bid`) REFERENCES `farmer` (`fid`);
 
 --
 -- Constraints for table `likedata`

@@ -132,6 +132,17 @@ else
             $User = $result->fetch_assoc();
             $_SESSION['id'] = $User['bid'];
 
+            if($_SESSION['picStatus'] == 0)
+            {
+                $_SESSION['picId'] = 0;
+                $_SESSION['picName'] = "profile0.png";
+            }
+            else
+            {
+                $_SESSION['picId'] = $_SESSION['id'];
+                $_SESSION['picName'] = "profile".$_SESSION['picId'].".".$_SESSION['picExt'];
+            }
+
             $_SESSION['message'] =
 
                      "Confirmation link has been sent to $email, please verify

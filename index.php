@@ -217,11 +217,11 @@
 			                            <b>Category : </b>
 			                        </p>
 			                        <div class="3u 12u$(small)">
-			                            <input type="radio" id="farmer" name="category" value="1" checked>
+			                            <input type="radio" id="farmer" name="category" value="1" >
 			                            <label for="farmer">Farmer</label>
 			                        </div>
 			                        <div class="3u 12u$(small)">
-			                            <input type="radio" id="buyer" name="category" value="0">
+			                            <input type="radio" id="buyer" name="category" value="0" checked>
 			                            <label for="buyer">Buyer</label>
 			                        </div>
 								</div>
