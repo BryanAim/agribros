@@ -63,13 +63,13 @@
 					</header>
 					<div class="row 200%">
 						<section class="4u 12u$(small)">
-							<a href="market.php"> 
+							<a href="productMenu.php?n=1&type=all"> 
 								<i class="icon big rounded fa-clock-o" style="color:white;"></i>
 							</a>
 							<p>Digital Market</p>
 						</section>
 						<section class="4u 12u$(small)">
-							<a href="productMenu.php?n=1&type=all">	
+							<a href="blogView.php">	
 								<i class="icon big rounded fa-comments" style="color:white;"></i>
 							</a>
 							<p>Agro-Blog</p>
