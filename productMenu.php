@@ -60,6 +60,8 @@
 										<option value="fruit" style="color: black;">Fruit</option>
 										<option value="vegetable" style="color: black;">Vegetable</option>
 										<option value="grain" style="color: black;">Grains</option>
+										<option value="aqua product" style="color: black;">Aqua Products</option>
+										<option value="machinery" style="color: black;">Machinery and equipment</option>
 									</select>
 							  	</div>
 							</div>
