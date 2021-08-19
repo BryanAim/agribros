@@ -25,7 +25,7 @@
 		<link rel="stylesheet" href="indexfooter.css" />
 		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
 	</head>
-
+	<body>
 	<?php
 		require 'menu.php';
 	?>
@@ -43,7 +43,7 @@
 						</div>
 
 						<div class="6u 12u$(xsmall)">
-							<button class="button fit" onclick="document.getElementById('id02').style.display='block'" style="width:auto">REGISTER</button>
+							<button class="button fit" style="width:auto;"><a href="register.php" style="width:auto; color:white; text-decoration:none;"> REGISTER</a></button>
 						</div>
 					</div>
 				</center>
@@ -60,16 +60,20 @@
 					</header>
 					<div class="row 200%">
 						<section class="4u 12u$(small)">
-							<i class="icon big rounded fa-clock-o"></i>
+							<a href="market.php"> 
+								<i class="icon big rounded fa-clock-o" style="color:white;"></i>
+							</a>
 							<p>Digital Market</p>
 						</section>
 						<section class="4u 12u$(small)">
-							<i class="icon big rounded fa-comments"></i>
+							<a href="blogView.php">	
+								<i class="icon big rounded fa-comments" style="color:white;"></i>
+							</a>
 							<p>Agro-Blog</p>
 						</section>
 						<section class="4u$ 12u$(small)">
-							<i class="icon big rounded fa-user"></i>
-							<p>Register with us</p>
+							<a href="register.php"><i class="icon big rounded fa-user" style="color:white;"></i></a>
+							<p> Register with us</p>
 						</section>
 					</div>
 				</div>
@@ -144,13 +148,15 @@
 				                            <b>Category : </b>
 				                        </p>
 				                        <div class="3u 12u$(small)">
-				                            <input type="radio" id="farmer" name="category" value="1" checked>
+				                            <input type="radio" id="farmer" name="category" value="1">
 				                            <label for="farmer">Farmer</label>
 				                        </div>
 				                        <div class="3u 12u$(small)">
 				                            <input type="radio" id="buyer" name="category" value="0">
 				                            <label for="buyer">Buyer</label>
 				                        </div>
+
+																
 									</div>
 									<center>
 									<div class="row uniform">
@@ -217,13 +223,15 @@
 			                            <b>Category : </b>
 			                        </p>
 			                        <div class="3u 12u$(small)">
-			                            <input type="radio" id="farmer" name="category" value="1" >
-			                            <label for="farmer">Farmer</label>
-			                        </div>
-			                        <div class="3u 12u$(small)">
-			                            <input type="radio" id="buyer" name="category" value="0" checked>
-			                            <label for="buyer">Buyer</label>
-			                        </div>
+				                            <input type="radio" id="farmer" name="category" value="1">
+				                            <label for="farmer">Farmer</label>
+				                        </div>
+				                        <div class="3u 12u$(small)">
+				                            <input type="radio" id="buyer" name="category" value="0">
+				                            <label for="buyer">Buyer</label>
+				                        </div>
+
+															
 								</div>
 								<div class="row uniform">
 									<div class="3u 12u$(small)">
