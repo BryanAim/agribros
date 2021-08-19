@@ -36,7 +36,10 @@
 				<h2>AgriBros</h2>
 				<p>Your Product Our Market</p>
 				<br><br>
-				<center>
+
+
+<?php if(!isset($_SESSION['logged_in']) OR $_SESSION['logged_in'] == 0): ?>
+	<center>
 					<div class="row uniform">
 						<div class="6u 12u$(xsmall)">
 							<button class="button fit" onclick="document.getElementById('id01').style.display='block'" style="width:auto">LOGIN</button>
@@ -47,7 +50,7 @@
 						</div>
 					</div>
 				</center>
-
+<?php endif; ?>
 
 			</section>
 
@@ -66,7 +69,7 @@
 							<p>Digital Market</p>
 						</section>
 						<section class="4u 12u$(small)">
-							<a href="blogView.php">	
+							<a href="productMenu.php?n=1&type=all">	
 								<i class="icon big rounded fa-comments" style="color:white;"></i>
 							</a>
 							<p>Agro-Blog</p>
